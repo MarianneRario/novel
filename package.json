@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MarianneRario/novel/issues"
   },
-  "homepage": "https://github.com/MarianneRario/novel#readme"
+  "homepage": "https://github.com/MarianneRario/novel#readme",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
 }
